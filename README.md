@@ -7,4 +7,4 @@ This repository contains the tasks I completed as a part of the UI Developer Tes
 <img src="UI Developer Test.jpeg" alt="assignment list"/>
 
 ### Screenshot of Assignment1:
-<img src="" alt="screenshot1"/>
+<img src="assignment.jpeg" alt="screenshot1"/>
