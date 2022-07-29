@@ -1,0 +1,6 @@
+Algorithm Guess Game using socket Programming.We created a server and that server will accept req from the client which 0,1,2 0 represents the client want to end the game,
+1 rep the Client want to play the game knapsack then server will genrate the values of weights and profits and these values will be send to the client then client will 
+enter the max profit value and this value will be send to the server then server will check weather the value is correct or not based on this we will increase or decrease 
+the score and if client req 2 the server will generate 2 strings and these strings will send to client and client will enter the LCS length and this length will be send to
+the server and server will check weather it is correct or not and it will send a reply to the client this process will repeat until client enter 0 if client entered 0 the 
+server will send the total score to the client and we have cretaed a backup where we are storing all past actions of the client
